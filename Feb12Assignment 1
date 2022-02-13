@@ -1,0 +1,14 @@
+Cname=input('Enter customer name:')
+Cphno=input('Enter phone number:')
+bcq= int(input('Enter number of biryani packets:')
+cbcq=int(input('Enter number of chibiryani packets:')
+mbcq=int(input('Enter number of muttonbiryani packets:')
+rq=int(input('Enter number of rice packets:')
+wq=int(input('Enter number of water packets:')
+bill=(bc*bcq)+(cbc*cbcq)+(mbc*mbcq)+(rice*rq)+(wb*wq)
+If bill>=5000
+  If coucode>='MY BILL':
+     Dis= bill*10/100
+       Tax=0
+
+
